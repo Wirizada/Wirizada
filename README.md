@@ -1,8 +1,8 @@
 ### Olá! Eu Sou Gabriel 🤚
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-de-souza-vaz-140867219/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)</br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wirizada&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wirizada&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wirizada&layout=compact&langs_count=16&theme=gruvbox)
 
 ## Tecnologias que estou estudando e praticando no momento
 
