@@ -1,6 +1,7 @@
 ### Olá! Eu Sou Gabriel 🤚
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-de-souza-vaz-140867219/)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wirizada&layout=compact)
 
 ## Tecnologias que estou estudando e praticando no momento
@@ -13,4 +14,4 @@
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div></br>
-Apaixonado por tecnologia, sempre em constante evolução e buscando meu melhor! 
+Sempre em constante evolução e buscando o meu melhor!
