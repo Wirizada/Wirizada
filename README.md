@@ -17,9 +17,11 @@ Tenho uma boa experiência com as seguintes tecnologias:
   <img align="center" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="TypeORM" src="https://img.shields.io/badge/TypeORM-FF6A00?style=for-the-badge&logo=typeorm&logoColor=white">
+  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
-Além dessas, também estou sempre explorando novas ferramentas e frameworks para ampliar meu conhecimento e me tornar um desenvolvedor mais completo.
+Além dessas, também estou sempre explorando novas ferramentas e frameworks para ampliar meu conhecimento e me tornar um desenvolvedor mais completo. Atualmente, estou me aprofundando em **Nest.js**, **PrismaORM**, **Docker**, **PostgreSQL** e estudando **Jest** aplicado com **TDD**.
 
 ---
 
