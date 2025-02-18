@@ -1,6 +1,6 @@
 # 👋 Olá! Seja bem-vindo(a)!
 
-Me chamo **Gabriel**, tenho 24 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** (4º semestre). Sou apaixonado por tecnologia e adoro estar sempre por dentro das inovações que fazem diferença no nosso dia a dia.
+Me chamo **Gabriel**, tenho 24 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** (5º semestre). Sou apaixonado por tecnologia e adoro estar sempre por dentro das inovações que fazem diferença no nosso dia a dia.
 
 Atualmente, estou focado em desenvolvimento **back-end** e me especializando em **Node.js** e **TypeScript**, criando APIs escaláveis e modernas. Aqui você vai encontrar um pouco sobre minhas habilidades e alguns projetos nos quais estou trabalhando!
 
