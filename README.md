@@ -25,7 +25,6 @@ Estou em constante evolução, valorizando o **aprendizado contínuo**, a **cola
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-de-souza-vaz-140867219)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wirizada)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielgaasouzaofs@gmail.com)
 
 ---
