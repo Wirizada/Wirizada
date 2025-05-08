@@ -20,7 +20,6 @@ Estou em constante evolução, valorizando o **aprendizado contínuo**, a **cola
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Postman" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
-  <img align="center" alt="Swagger" height="30" width="40" src="https://www.vectorlogo.zone/logos/swagger/swagger-icon.svg" />
 </div>
 
 <br />
