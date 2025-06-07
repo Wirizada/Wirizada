@@ -1,6 +1,6 @@
 # Olá! Eu sou Gabriel.
 
-Sou desenvolvedor backend em formação, apaixonado por tecnologia e focado em criar soluções eficientes e bem estruturadas. Tenho familiaridade com ferramentas como **Docker**, **Git**, **Jest**, **JUnit**, bancos de dados como **MySQL** e **MongoDB**, além de linguagens como **Java**, **JavaScript** e **TypeScript**, sempre buscando escrever um código limpo e de fácil manutenção.
+Sou desenvolvedor backend em formação, apaixonado por tecnologia e focado em criar soluções eficientes e bem estruturadas. Tenho familiaridade com bancos de dados como **MySQL** e **MongoDB**, além de linguagens como **Java**, **JavaScript** e **TypeScript**, sempre buscando escrever um código limpo e de fácil manutenção.
 
 Estou em constante evolução, valorizando o **aprendizado contínuo**, a **colaboração em equipe** e a **capacidade de adaptação** para enfrentar novos desafios.
 
