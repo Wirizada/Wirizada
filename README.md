@@ -1,6 +1,6 @@
 # Olá! Eu sou Gabriel.
 
-Sou Gabriel tenho 25 anos e sou apaixonado por tecnologia, focado em criar soluções eficientes e bem estruturadas. Tenho familiaridade com bancos de dados como **MySQL** e **MongoDB**, além de linguagens como **Java**, **JavaScript** e **TypeScript**, sempre buscando escrever um código limpo e de fácil manutenção.
+Tenho 25 anos e sou apaixonado por tecnologia, focado em criar soluções eficientes e bem estruturadas. Tenho familiaridade com bancos de dados como **MySQL** e **MongoDB**, além de linguagens como **Java**, **JavaScript** e **TypeScript**, sempre buscando escrever um código limpo e de fácil manutenção.
 
 Estou em constante evolução, valorizando o **aprendizado contínuo**, a **colaboração em equipe** e a **capacidade de adaptação** para enfrentar novos desafios.
 
