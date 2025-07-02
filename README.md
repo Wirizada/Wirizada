@@ -1,4 +1,4 @@
-# Olá, seja bem-vindo!.
+# Olá, seja bem-vindo!
 
 Tenho 25 anos e sou apaixonado por tecnologia, focado em criar soluções eficientes e bem estruturadas. Tenho familiaridade com bancos de dados como **MySQL** e **MongoDB**, além de linguagens como **Java**, **JavaScript** e **TypeScript**, sempre buscando escrever um código limpo e de fácil manutenção.
 
