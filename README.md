@@ -1,8 +1,8 @@
-# Olá, seja bem-vindo! 👋
+# Olá! Sou o Gabriel. 👋
 
-Sou Gabriel, um desenvolvedor apaixonado por tecnologia e focado em transformar ideias em soluções eficientes e bem estruturadas.
+Este é meu portfólio e laboratório digital, onde a curiosidade encontra o código.
 
-Meu trabalho é guiado pela busca de um código limpo, pela colaboração em equipe e pelo **aprendizado contínuo**, valores que considero essenciais para me adaptar e superar novos desafios.
+Minha paixão por entender como as coisas funcionam "debaixo do capô" me levou naturalmente ao desenvolvimento backend. Aqui, eu transformo desafios complexos em soluções resilientes e bem arquitetadas. Acredito que a evolução vem da prática constante e da colaboração, por isso estou sempre com a mão na massa, construindo e aprendendo em boa companhia.
 
 ---
 
@@ -35,5 +35,5 @@ Meu trabalho é guiado pela busca de um código limpo, pela colaboração em equ
 </p>
 <br>
 <p align="center">
-  Obrigado pela visita!
+  Obrigado por passar por aqui. Fique à vontade para se conectar!
 </p>
