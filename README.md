@@ -10,7 +10,7 @@ Minha paixão por entender como as coisas funcionam "debaixo do capô" me levou 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,spring,nodejs,express,prisma,mysql,mongodb,docker,git,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,spring,nodejs,express,prisma,postgresql,mysql,mongodb,docker,git,postman" />
   </a>
 </p>
 
