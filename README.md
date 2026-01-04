@@ -16,17 +16,6 @@ Minha paixão por entender como as coisas funcionam "debaixo do capô" me levou 
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <a href="https://github.com/Wirizada">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wirizada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wirizada&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</p>
-
----
-
 ### 📫 Contato
 
 <p align="center">
