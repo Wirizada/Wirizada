@@ -13,11 +13,9 @@
 <br/>
 <br/>
 
-</div>
-
 Curioso por arquitetura e pelo que acontece debaixo do capô. Comecei pela linha do backend com Java e Spring, e hoje divido o dia a dia entre TypeScript e o que mais o problema pedir resolver. Mais interessado em fundamentos do que em frameworks.
 
-<br/>
+</div>
 
 > *construindo APIs que resolvem problemas reais*  
 > *lendo mais documentação do que gostaria*  
@@ -32,7 +30,7 @@ Curioso por arquitetura e pelo que acontece debaixo do capô. Comecei pela linha
 <br/>
 <br/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Wirizada&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true&card_width=400" height="170"/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wirizada&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=6&count_private=true&card_width=400" height="170"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Wirizada&show_icons=true&hide_rank=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true" height="170"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wirizada&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=6&count_private=true" height="170"/>
 
 </div>
