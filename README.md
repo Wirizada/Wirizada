@@ -1,28 +1,38 @@
-# Olá! Sou o Gabriel. 👋
+<div align="center">
 
-Este é meu portfólio e laboratório digital, onde a curiosidade encontra o código.
+<br/>
 
-Minha paixão por entender como as coisas funcionam "debaixo do capô" me levou naturalmente ao desenvolvimento backend. Aqui, eu transformo desafios complexos em soluções resilientes e bem arquitetadas. Acredito que a evolução vem da prática constante e da colaboração, por isso estou sempre com a mão na massa, construindo e aprendendo em boa companhia.
+# Gabriel de Souza Vaz
 
----
+###### desenvolvedor de software · maringá, pr
 
-### 🚀 Minhas Habilidades
+<a href="https://www.linkedin.com/in/gabriel-de-souza-vaz-140867219/">
+  <img src="https://img.shields.io/badge/linkedin-000?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgresql,mongodb,docker,git,postman" />
-  </a>
-</p>
+<br/>
+<br/>
 
----
+</div>
 
-### 📫 Contato
+Curioso por arquitetura e pelo que acontece debaixo do capô. Comecei pela linha do backend com Java e Spring, e hoje divido o dia a dia entre TypeScript e o que mais o problema pedir resolver. Mais interessado em fundamentos do que em frameworks.
 
-<p align="center">
-<a href="https://www.linkedin.com/in/gabriel-de-souza-vaz-140867219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:gabrielgaasouzaofs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
-<br>
-<p align="center">
-  Obrigado por passar por aqui. Fique à vontade para se conectar!
-</p>
+<br/>
+
+> *construindo APIs que resolvem problemas reais*  
+> *lendo mais documentação do que gostaria*  
+> *ainda aprendendo — sempre*
+
+<br/>
+
+<div align="center">
+
+`TypeScript`  `Java`  `Spring Boot`  `Node.js`  `PostgreSQL`  `Docker`  `AWS`
+
+<br/>
+<br/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Wirizada&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true&card_width=400" height="170"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wirizada&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=6&count_private=true&card_width=400" height="170"/>
+
+</div>
