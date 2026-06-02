@@ -25,7 +25,7 @@ Curioso por arquitetura e pelo que acontece debaixo do capô. Comecei pela linha
 
 <div align="center">
 
-`TypeScript`  `Java`  `Spring Boot`  `Node.js`  `PostgreSQL`  `Docker`  `AWS`
+`TypeScript`  `Java`  `Spring Boot`  `Node.js`  `PostgreSQL`  `Docker` 
 
 <br/>
 <br/>
